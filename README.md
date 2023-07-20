@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-<h1><a href="https://personal-portfolio-yash-ambekar.netlify.app/" alt="_blank">Demo Link For My Portfolio Website</a></h1>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
